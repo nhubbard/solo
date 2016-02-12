@@ -179,11 +179,11 @@ The following is all of our ports:
 
 The following is all of our values:
 
-<table><tr><td>Floor Value</td><td>               </td></tr><tr><td>Table Value</td><td></td></tr><tr><td>Green Value</td><td></td></tr></table>
+<table><tr><th>Floor Value</th><td>               </td></tr><tr><th>Table Value</th><td></td></tr><tr><th>Green Value</th><td></td></tr></table>
 
 The following is all of the variables:
 
-<table><tr><td>G1</td><td>Topmost distance between putting green and edge.</td></tr><tr><td>G2</td><td>1st and 2nd Putting Green Distance</td></tr><tr><td>G4</td><td>3rd Green and Other Table Edge</td></tr><tr><td>D</td><td>Distance between Putting Green and Holes</td></tr></table>
+<table><tr><th>G1</th><td>Topmost distance between putting green and edge.</td></tr><tr><th>G2</th><td>1st and 2nd Putting Green Distance</td></tr><tr><th>G4</th><td>3rd Green and Other Table Edge</td></tr><tr><th>D</th><td>Distance between Putting Green and Holes</td></tr></table>
 
 ### Procedures
 
