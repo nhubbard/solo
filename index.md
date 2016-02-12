@@ -167,7 +167,7 @@ In here, you will find:
 
 For trigonometry, we use special formulas for each calculation, but each follows the same pattern:
 
-<math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mi>atan</mi><mfenced><mi>a</mi></mfenced></mrow><mrow><mo>(</mo><mn>360</mn><mo>*</mo><mn>5.2</mn><mo>)</mo></mrow></mfrac></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mi>atan</mi><mfenced></mfenced></mrow><mrow><mo>(</mo><mn>360</mn><mo>*</mo><mn>5.2</mn><mo>)</mo></mrow></mfrac></math><br>
 
 For all the different equations, <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi></math> is the common difference.
 
