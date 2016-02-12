@@ -167,7 +167,7 @@ In here, you will find:
 
 For trigonometry, we use special formulas for each calculation, but each follows the same pattern:
 
-<!DOCTYPE math PUBLIC "-//W3C//DTD MathML 2.0//EN" "http://www.w3.org/Math/DTD/mathml2/mathml2.dtd"><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mi>atan</mi><mfenced><mi>a</mi></mfenced></mrow><mrow><mo>(</mo><mn>360</mn><mo>*</mo><mn>5.2</mn><mo>)</mo></mrow></mfrac></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mi>atan</mi><mfenced><mi>a</mi></mfenced></mrow><mrow><mo>(</mo><mn>360</mn><mo>*</mo><mn>5.2</mn><mo>)</mo></mrow></mfrac></math>
 
 For all the different equations, <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi></math> is the common difference.
 
@@ -187,7 +187,29 @@ The following is all of the variables:
 
 ### Procedures
 
-Currently incomplete.
+For practice:
+
+* [ ] Get robot out.
+* [ ] Prepare table.
+* [ ] Measure variables (see table below).
+* [ ] Prepare computer.
+* [ ] Input values into program.
+* [ ] Do test run.
+* [ ] Continue from there.
+
+For competition:
+
+* [ ] Get robot out.
+* [ ] Get computer out.
+* [ ] Plug in robot, and get values from test table when ready.
+* [ ] Do test runs.
+* [ ] Adjust program until pre-presentation impound.
+* [ ] Get values from unknown presentation.
+* [ ] WORK QUICKLY.
+* [ ] Do well in runs!
+* [ ] Repeat steps 5 to 7.
+* [ ] Do well in second round of runs!
+* [ ] Get rewarded... somehow.
 
 ### Other Information?
 
