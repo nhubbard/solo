@@ -175,15 +175,15 @@ For all the different equations, <math xmlns="http://www.w3.org/1998/Math/MathML
 
 The following is all of our ports:
 
-<table><tr><th colspan="2">Motor Ports</th></tr><tr><td>Left</td><td>B</td></tr><tr><td>Right</td><td>C</td></tr><tr><td>Putter</td><td>D</td></tr><tr><td colspan="2">Sensor Ports</td></tr><tr><td>Left One</td><td>1</td></tr><tr><td>Left Two</td><td>2</td></tr><tr><td>Right One</td><td>3</td></tr><tr><td>Right Two</td><td>4</td></tr></table>
+<table><tr><th colspan="2">Motor Ports</th></tr><tr><td>Left</td><td>B</td></tr><tr><td>Right</td><td>C</td></tr><tr><td>Putter</td><td>D</td></tr><tr><th colspan="2">Sensor Ports</th></tr><tr><td>Left One</td><td>1</td></tr><tr><td>Left Two</td><td>2</td></tr><tr><td>Right One</td><td>3</td></tr><tr><td>Right Two</td><td>4</td></tr></table>
 
 The following is all of our values:
 
-<table><tr><th>Floor Value</th><th>               </th></tr><tr><td>Table Value</td><td></td></tr><tr><td>Green Value</td><td></td></tr></table>
+<table><tr><td>Floor Value</td><td>               </td></tr><tr><td>Table Value</td><td></td></tr><tr><td>Green Value</td><td></td></tr></table>
 
 The following is all of the variables:
 
-<table><tr><th>G1</th><th>Topmost distance between putting green and edge.</th></tr><tr><td>G2</td><td>1st and 2nd Putting Green Distance</td></tr><tr><td>G4</td><td>3rd Green and Other Table Edge</td></tr><tr><td>D</td><td>Distance between Putting Green and Holes</td></tr></table>
+<table><tr><td>G1</td><td>Topmost distance between putting green and edge.</td></tr><tr><td>G2</td><td>1st and 2nd Putting Green Distance</td></tr><tr><td>G4</td><td>3rd Green and Other Table Edge</td></tr><tr><td>D</td><td>Distance between Putting Green and Holes</td></tr></table>
 
 ### Procedures
 
