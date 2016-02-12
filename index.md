@@ -167,7 +167,7 @@ In here, you will find:
 
 For trigonometry, we use special formulas for each calculation, but each follows the same pattern:
 
-<math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mi>a</mi><mi>t</mi><mi>a</mi><mi>n</mi><mo>(</mo><mi>a</mi><mo>)</mo></mrow><mrow><mo>(</mo><mn>360</mn><mo>&#x000D7;</mo><mn>25</mn><mo>)</mo></mrow></mfrac></math><br>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mi>atan</mi><mo>(</mo><mi>a</mi><mo>)</mo><mo>&#x000D7;</mo><mo>&#x000B1;</mo><mn>5</mn><mo>.</mo><mn>1</mn></mrow><mn>360</mn></mfrac></math><br>
 
 For all the different equations, <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi></math> is the common difference.
 
