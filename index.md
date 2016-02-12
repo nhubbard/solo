@@ -167,7 +167,7 @@ In here, you will find:
 
 For trigonometry, we use special formulas for each calculation, but each follows the same pattern:
 
-\frac{atan(a)}{(360\times25)}
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mi>a</mi><mi>t</mi><mi>a</mi><mi>n</mi><mo>(</mo><mi>a</mi><mo>)</mo></mrow><mrow><mo>(</mo><mn>360</mn><mo>&#x000D7;</mo><mn>25</mn><mo>)</mo></mrow></mfrac></math>
 
 For all the different equations, <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi></math> is the common difference.
 
