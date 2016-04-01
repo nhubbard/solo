@@ -75,4 +75,4 @@ For competition:
 
 ### Other Information?
 
-Put more information here later.
+* **IMPORTANT!** Margin of error for last green is 3&deg;.
